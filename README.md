@@ -8,7 +8,7 @@ hangman and unscramble bots work perfectly
 
 ######usage:
 
-__these are python scripts for hexchat. so you will ned hexchat with installed python-plugin__
+__these are python scripts for hexchat. so you will need hexchat with installed python-plugin__
 
 hbot for hangman, sbot for unscramble
 
