@@ -1,5 +1,6 @@
 # hexchat-game-bots
-#####bots for gridcoin-games. hangman, scramble and hunter
+#####bots for #gridcoin-games room on freenode irc.
+#####hangman, scramble and hunter
 
 hunt/fish bot works ok, but there was a problem, that i don't remember already =)
 
