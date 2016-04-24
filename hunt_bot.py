@@ -65,6 +65,6 @@ def message_cb(word, word_eol, userdata):
 
 
 
-#XC.hook_timer(4000, init_cb)
-#XC.hook_print("Channel Message", message_cb)
-#XC.hook_command("hbot", bot_cb, help="/hbot prints status of bot")
+XC.hook_timer(4000, init_cb)
+XC.hook_print("Channel Message", message_cb)
+XC.hook_command("hbot", bot_cb, help="/hbot prints status of bot")
