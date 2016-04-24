@@ -8,6 +8,8 @@ hangman and unscramble bots work perfectly
 
 ######usage:
 
+these are python scripts for hexchat. so you will ned hexchat with installed python-plugin
+
 hbot for hangman, sbot for unscramble
 
 * hbot        - single sommand fires single game
