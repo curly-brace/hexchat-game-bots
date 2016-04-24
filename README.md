@@ -1,2 +1,16 @@
 # hexchat-game-bots
-bots for gridcoin-games. hangman, scramble and hunter
+#####bots for gridcoin-games. hangman, scramble and hunter
+
+hunt/fish bot works ok, but there was a problem, that i don't remember already =)
+
+hangman and unscramble bots work perfectly
+
+######usage:
+
+hbot for hangman, sbot for unscramble
+
+* hbot        - single sommand fires single game
+* hbot 10     - fires ten games
+* hbot start  - starts infinite
+* hbot stop   - stops the bot after ongoing game is finished
+* hbot status - displays the status of the bot
